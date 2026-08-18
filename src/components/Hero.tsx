@@ -6,9 +6,9 @@ export function Hero() {
         </video>
       <div className="relative z-10 flex flex-col items-center text-center">
         <h1 className="animate-fade-rise max-w-7xl text-5xl font-normal leading-[0.95] text-foreground sm:text-7xl md:text-8xl" style={{ fontFamily: "'Instrument Serif', serif", letterSpacing: '-2.46px' }}>
-          Des expériences web<br />qui laissent une <em className="not-italic text-muted-foreground">trace.</em>
+          Un site qui vous met en<br /><em className="not-italic text-muted-foreground">valeur.</em>
         </h1>
-        <p className="animate-fade-rise-delay mt-8 max-w-2xl text-base leading-relaxed text-muted-foreground sm:text-lg">Kusooo est le portfolio d’un designer web indépendant : interfaces, identités digitales et expériences qui ont du caractère.</p>
+        <p className="animate-fade-rise-delay mt-8 max-w-2xl text-base leading-relaxed text-muted-foreground sm:text-lg">Attirez, Intéressez, Vendez</p>
         <a href="#studio" className="liquid-glass animate-fade-rise-delay-2 mt-12 cursor-pointer rounded-full px-14 py-5 text-base text-foreground transition-transform hover:scale-[1.03]">Voir les projets</a>
       </div>
     </section>
